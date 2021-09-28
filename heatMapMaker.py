@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat May  9 16:34:18 2020
 
-@author: F ANAME
-"""
 from math import ceil
 import time
 import numpy as np
